@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "hello-world-chat",
+    "slug": "hello-world-chat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
