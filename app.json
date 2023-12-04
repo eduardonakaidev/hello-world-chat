@@ -7,6 +7,8 @@
       "**/*"
     ],
     "orientation":"portrait",
-    "githubUrl":
+    "githubUrl":"https://github.com/eduardonakaidev/hello-world-chat",
+    "backgroundColor":"#00C7E2"
+
   }
 }
